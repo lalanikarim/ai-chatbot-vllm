@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-# Streamlit + Langchain + Ollama w/ Mistral
+# Streamlit + Langchain + vLLM w/ Mistral
 
 Run your own AI Chatbot locally on a GPU or even a CPU.
 
